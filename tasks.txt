@@ -1,0 +1,25 @@
+
+TASK-1: Setting up the Spyder IDE Environment and Executing a Python Program
+
+TASK-2: Installing Keras, Tensorflow and Pytorch libraries and making use of them
+
+TASK-3: Implement Activation Functions in Neural Networks and analyse their usage.
+
+TASK-4: Implement Perceptron training algorithm to classify flowers in IRIS dataset
+
+TASK-5: Build a three-layer Artificial Neural Network by implementing the Backpropagation algorithm.
+
+TASK-6: Applying the Convolution Neural Network on computer vision problems
+
+TASK-7: Image classification on MNIST dataset (CNN model with Fully connected layer)
+
+TASK-8: Applying the Deep Learning Models in the field of Natural Language Processing
+
+TASK-9: Train a sentiment analysis model on IMDB dataset, use RNN layers with LSTM/GRU notes
+
+TASK-10: Applying the Autoencoder algorithms for encoding the real-world data
+
+TASK-11: Applying Generative Adversial Networks for image generation and unsupervised tasks.
+
+TASK-12: Design a Deep Learning framework for Object Detection. GANS
+
